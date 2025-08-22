@@ -59,5 +59,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "rest-apis",
+      "title": "Building REST APIs",
+      "description": "Design and implement RESTful APIs using Python and Flask.",
+      "path": "assignments/rest-apis",
+      "dueDate": "2025-08-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
